@@ -1,8 +1,8 @@
 {
-  "name": "typescript-react-redux-boilerplate",
+  "name": "nary-trees",
   "version": "1.0.0",
-  "description": "Boilerplate code for project using Typescript, React and Redux",
-  "repository": "https://github.com/mgrzeszczak/typescript-react-redux-boilerplate",
+  "description": "Nary tree visualization app",
+  "repository": "https://github.com/mgrzeszczak/nary-trees",
   "author": "Maciej Grzeszczak",
   "license": "MIT",
   "scripts": {
