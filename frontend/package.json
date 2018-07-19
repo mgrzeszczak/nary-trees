@@ -1,0 +1,30 @@
+{
+  "name": "typescript-react-redux-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate code for project using Typescript, React and Redux",
+  "repository": "https://github.com/mgrzeszczak/typescript-react-redux-boilerplate",
+  "author": "Maciej Grzeszczak",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "dev": "webpack-dev-server"
+  },
+  "dependencies": {
+    "vis": "^4.21.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "copy-webpack-plugin": "^4.3.1",
+    "cross-env": "^5.1.3",
+    "html-webpack-plugin": "^2.30.1",
+    "ts-loader": "^3.4.0",
+    "tslint": "^5.9.1",
+    "tslint-loader": "^3.5.3",
+    "typescript": "^2.7.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
